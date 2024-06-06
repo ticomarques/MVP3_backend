@@ -1,4 +1,4 @@
-Age,Experience,Income,ZIP.Code,Family,CCAvg,Education,Mortgage,Personal.Loan,Securities.Account,CD.Account,Online,CreditCard
+Age,Experience,Income,ZIP,Family,CCAvg,Education,Mortgage,PersonalLOan,SecuritiesAccount,CdAccount,Online,CreditCard
 25,1,49,91107,4,1.6,1,0,0,1,0,0,0
 45,19,34,90089,3,1.5,1,0,0,1,0,0,0
 39,15,11,94720,1,1,1,0,0,0,0,0,0
