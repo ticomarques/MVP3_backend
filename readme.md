@@ -4,6 +4,7 @@
 Projeto de predição de empréstimo/cartão de credito, modelo preparado e treinado no google colab, importado para um sistema backend em python, e com frontend usando javascript.
 
 Notebook (.ipynb) anexo no projeto (/api/machineLearning/notebooks).
+Link do notebook: https://colab.research.google.com/drive/1B9eP0_Cv-T4IPHaB-qMwky1NfVZjl7UX?usp=sharing
 
 #### Existe um projeto separado com um frontend desenvolvido em React para rodar junto com esse backend (link compartilhado na postagem do projeto, ou pode ser acessar na listagem de repositorios do usuário).
 
